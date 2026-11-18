@@ -1,11 +1,17 @@
 import './App.css'
-import LoginPage from './Components/Login/LoginPage'
+import Home from './Components/Home/Home'
+// import LoginPage from './Components/Login/LoginPage'
 
 function App() {
 
   return (
     <>
-      <LoginPage />
+      {/* <LoginPage / */}
+
+
+      <Home />
+
+
     </>
   )
 }
