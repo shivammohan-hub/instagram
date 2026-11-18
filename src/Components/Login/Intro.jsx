@@ -1,6 +1,6 @@
 const Intro = () => {
   return (
-    <div className="p-12 h-screen">
+    <div className="p-12">
     <div className="">
       <img className="h-16 w-auto" src="images/logo.png" alt="" />
     </div>
