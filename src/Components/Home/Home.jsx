@@ -5,7 +5,7 @@ import Stories from "./Stories"
 
 const Home = () => {
   return (
-    <div className="flex">
+    <div className="flex ">
         <div className="">
             <Navbar />
         </div>

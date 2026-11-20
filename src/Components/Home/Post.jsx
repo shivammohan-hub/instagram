@@ -2,6 +2,7 @@ const Post = () => {
   return (
     <div className="p-10 flex flex-col gap-4">
         <h3 className="font-semibold">_xhiv.am</h3>
+        
         <img className="h-[500px] w-auto" src="https://instagram.fixr3-4.fna.fbcdn.net/v/t51.82787-15/907215111_18491584285114219_8367001389683946436_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzI3MjAwNDkyNTQxNDgxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Kw999nKnAJkQ7kNvwEy7faE&_nc_oc=AdptCMhCg0HBw7liLiqdvm8oiPy9bQRi2gge2R9QTc2ZzDAQprHIfIbEAQHi80H79xBeGqZDpSdGG5c6Bh4_29uk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fixr3-4.fna&_nc_gid=12H6kuMHJzXlV67ythK7Iw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR_0TyCg7DUyP319S2JJCD0Hsw_XTVrYbLcB-GMBrjFrQ&oe=6B03BF42" alt="" />
         <div className="flex gap-6">
             <button>
